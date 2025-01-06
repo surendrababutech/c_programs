@@ -26,4 +26,6 @@ int main()
 
 	if(a >= b)
 		printf("%d is greate than or equal to %d\n", a, b);
+
+	return 0;
 }
